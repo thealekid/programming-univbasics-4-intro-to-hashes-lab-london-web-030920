@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:Queen => 
+  {:Queen => "Chuk Orakwusi"}
 end
 
 def pioneer
