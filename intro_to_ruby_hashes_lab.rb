@@ -7,9 +7,7 @@ def my_hash = {
   :created => Time.now
   :message => "Hello World!"
 }
-  
-  
-  
+  my_hash
 end
 
 def pioneer
