@@ -11,7 +11,7 @@ def pioneer
 end
 
 def id_generator
-  {:Hand => 5}
+  {:id => 5}
   
   # return a hash with a key :id assigned to positive integer
 end
