@@ -4,6 +4,8 @@ def new_hash
 end
 
 def my_hash = {
+  
+}
 end
 
 def pioneer
