@@ -24,7 +24,7 @@ def read_from_hash(hash, key)
   hash[key]
 end 
 
-
+def update_counting_hash
 
 [key] += 1 
   else
