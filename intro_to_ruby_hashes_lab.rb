@@ -4,7 +4,7 @@ def new_hash
 end
 
 def my_hash = {
-  "bread" = 
+  "bread" = 2.35
 }
 end
 
