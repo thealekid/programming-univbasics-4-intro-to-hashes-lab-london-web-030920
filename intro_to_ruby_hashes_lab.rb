@@ -2,9 +2,7 @@ def new_hash
   hash = Hash.new
 end
 
-def my_hash = {
-  :item => "banana"
-}
+def my_hash
 end
 
 def pioneer
