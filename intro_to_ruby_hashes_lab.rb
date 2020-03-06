@@ -3,11 +3,7 @@ def new_hash
   hash
 end
 
-def my_hash = {
-  :created => Time.now
-  :message => "Hello World!"
-}
-  my_hash
+def my_hash 
 end
 
 def pioneer
