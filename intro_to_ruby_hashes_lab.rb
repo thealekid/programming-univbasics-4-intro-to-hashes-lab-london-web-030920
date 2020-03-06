@@ -1,5 +1,5 @@
 def new_hash = {
-  instatiating = Hash.new 
+  instantiating = Hash.new 
 }
 end
 
